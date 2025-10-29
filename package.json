@@ -1,5 +1,5 @@
 {
-  "name": "discord-mcp",
+  "name": "@iflow-mcp/discord-mcp",
   "version": "0.0.1",
   "description": "Model Context Protocol (MCP) server for Discord API integration",
   "main": "dist/index.js",
